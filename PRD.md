@@ -1,177 +1,164 @@
-## INTRODUCING UniBudget 
+## **COMPUTER SCIENCE GROUP A** 
 
-UniBudget is a web-based platform that will improve university’s students spending habits. If a person is a huge spender or an amazing saver, they can still benefit from the app. UniBudget is a platform that helps university students track their allowances, their spending, and plan and develop good strategies to help efficiently manage the money they have. It entails simple ways for students to record their income, transactions, create savings plans that span for as long as needed, group the different categories they spend on, and how much they spend on such. 
+## **CodeNova: BU COS 209 GROUP 6 PRD ASSIGNMENT INTRODUCING UniBudget** 
 
+**PRODUCT OVERVIEW** 
 
+**UniBudget is a web-based platform that will improve university’s students spending habits. If a person is a huge spender or an amazing saver, they can still benefit from the app.** 
 
-<!-- Start of picture text -->
-C<br><!-- End of picture text -->
+**UniBudget is a platform that helps university students track their allowances, their spending, and plan and develop good strategies to help efficiently manage the money they have.** 
 
-UniBudget aims to make money management less overwhelming by providing a student-friendly, simple and accessible financial tracking experience. 
+**It entails simple ways for students to record their income, transactions, create savings plans that span for as long as needed, group the different categories they spend on, and how much they spend on such.** 
 
-##### THE PROBLEM IT’S SOLVING 
+**UniBudget aims to make money management less overwhelming by providing a student-friendly, simple and accessible financial tracking experience.** 
 
+**THE PROBLEM IT’S SOLVING** 
 
+**A lot of students in university have irregular or limited sources of income from allowances, part-time jobs, personal savings, etc. And when this income arrives, due to the demands of university, they do not know how to effectively manage their** 
 
-<!-- Start of picture text -->
-ay | | i re) y 4<br>|if ™ » ' af fe<br>an™~ se fe©,<br><!-- End of picture text -->
+**money. Some students overspend on unnecessary things, some do not spend enough, some do not know how to spend periodically, and not erratically.** 
 
-A lot of students in university have irregular or limited sources of income from allowances, part-time jobs, personal savings, etc. And when this income arrives, due to the demands of university, they do not know how to effectively manage their money. Some students overspend on unnecessary things, some do not spend enough, some do not know how to spend periodically, and not erratically. 
+**A survey was taken by our group, with a few students of Babcock University, and we discovered that about 75% of students that have their limited income last through the designated time the money runs for. Majority of it goes towards food, transport, data subscriptions, printing even.** 
 
-Babcock University survey: students that have their limited income last through the designated time the money runs 
+**UniBudget will address this problem by providing a simple, student-centered budgeting platform that helps students understand, organize and manage their finances.** 
 
+# **SOLUTION AND FEATURES** 
 
+**UniBudget will help students make good spending decisions and eradicate erratic spending.** 
 
-<!-- Start of picture text -->
-Mod<br><!-- End of picture text -->
+**UniBudget will be a digital platform that allows students:** 
 
-A survey was taken by our group, with a few students of Babcock University, and we discovered that about 75% of students that have their limited income last through the designated time the money runs for. Majority of it goes towards food, transport, data subscriptions, 
+**1. Record income or money received** 
 
-printing even. 
+**2. Record daily purchases/expenses** 
 
-UniBudget will address this problem by providing a simple, studentcentered budgeting platform that helps students understand, organize and manage their finances. 
+**3. Group expenses into categories** 
 
-UniBudget will help students make good spending decisions and eradicate erratic platform that allows students: 
+**4. Create budgets (weekly/monthly/yearly)** 
 
-& Record income or Ss Record daily money received purchases/expenses 
+**5. View financial summaries** 
 
-daily <@ Group expenses purchases/expenses “into categories M budget is about to be Receive reminders when the ~ exceeded. 
+**6. Receive reminders when the budget is about to be exceeded.** 
 
-(View financial summaries 
+**7. Receive alerts when income is nearly depleted** 
 
-spending. UniBudget will be a digital 
+# **PRODUCT GOALS AND OBJECTIVES** 
 
-aia Create budgets (weekly/monthly/yearly) A Receive alerts when income is nearly depleted 
+## **PRODUCT GOALS** 
 
-###### PRODUCT GOALS 
+**1. Enable students to track their income and spending.** 
 
-¢« Enable students to track their income and apenalng. 
+**2. Aid students in avoiding overspending.** 
 
-- =r eed SIENACaAT IS) RET eaCACHE 1 Eeicay2 Feta 
+**3. Helps students develop saving habits.** 
 
-- Helps students develop saving habits. 
+**4. Help plan easy budgets.** 
 
-- Help plan easy budgets. 
+**5. Making understanding your finances easier, providing a simple visual representation.** 
 
-- - Making understanding your finances easier, providing a simple visual representation. 
+## **PRODUCT OBJECTIVES** 
 
-###### y= PRODUCT OBJECTIVES 
+**1. Provide summaries of spending** 
 
-- « Provide summaries of spending 
+**2. Enabling recording of daily transactions** 
 
-¢ Enabling recording of daily transactions ¢ Allow users create spending budgets for different categories. 
+**3. Allow users create spending budgets for different categories.** 
 
-- ¢ Allow people set saving targets 
+**4. Allow people set saving targets** 
 
-- Display the remaining amount of income and 
+**5. Display the remaining amount of income and spending, after recording transactions.** 
 
-- spending, after recording transactions. 
+**6. Display patterns and trends in spending.** 
 
-- ¢ Display patterns and trends in spending. 
+# **TARGET AUDIENCE** 
 
-|$ <|<sup>a</sup><br>oe|1|
-|---|---|---|
-|Students who receive|Students who want to save|Students who overspend|
-|income/allowances|||
+**1. Students who receive income/allowances** 
 
+**2. Students who want to save** 
 
+**3. Students who overspend** 
 
-|&|w|
-|---|---|
-|Students who aretoo busy to|Students who want to|
-|properly deep dive into their|develop saving habits|
-|finances||
+**4. Students who are too busy to properly deep dive into their finances** 
 
+**5. Students who want to develop saving habits** 
 
+**6. Students with part-time jobs.** 
 
-|gaa<br>ie<br>Studentswithpart-timejobs.|
-|---|
+# **FUNCTIONAL REQUIREMENTS** 
 
+**1. User Authentication: to allow users create accounts that they can log into and out of so their data is saved. Users can reset passwords if needed. Users’ data is protected and allows only them access their finances.** 
 
+**2. Finance Dashboard: This will be an overview of the user’s finance status, transactions, amount of income on ground. It will display how much money they have, their daily transactions, their budget, their saving goal and their progress.** 
 
-#### FUNCTIONAL REQUIREMENTS 
+## **3. Income Management System:** 
 
-# & User Authentication 
+## **Allow users:** 
 
-to allow users create accounts that they can log into and out of so their data is saved. Users can reset passwords if needed. Users’ data is protected and allows only them access their finances. 
+   - **Record income** 
 
-###### Finance Dashboard 
+   - **Enter the date when income was received** 
 
-This will be an overview of the user’s finance 
+   - **Specify the income amount** 
 
-status, transactions, amount of income on ground. It will display how much money they have, their daily transactions, their budget, their saving goal and their progress. 
+   - **Choose income source** 
 
-#### FUNCTIONAL REQUIREMENTS 
+   - **Edit and delete records of transactions** 
 
-### © Income Management System 
+**4. Expenses Management System:** 
 
-Allow users: 
+## **Allow users:** 
 
-- e Record income 
+- **Record expenses** 
 
-- e Enter the date when income was received 
+- **Enter the date when expense was carried out** 
 
-- ¢ Specify the income amount 
+- **Specify the expenses amount** 
 
-- « Choose income source 
+- **Select expenses categories eg food** 
 
-- e Edit and delete records of transactions 
+## **- Edit and delete records of expenses** 
 
-© Expenses Management System 
+## **5. Budget Management System:** 
 
-Allow users: 
+## **Allow users:** 
 
-- « Record expenses 
+- **Create weekly or monthly budget** 
 
-- ¢« Enter the date when expense was carried out 
+- **Display the amount of money spent against a budget** 
 
-- « Specify the expenses amount 
+- **Display the remaining money in a budget** 
 
-- « Select expenses categories eg food 
+- **Notify a user when they’re over their budget** 
 
-¢e Edit and delete records of expenses 
+## **6. Savings Target Management System:** 
 
-ald SystemBudget Management bs Savings Target Allow users: Management System - Create weekly or monthly budget ia vA UI/UX Design ¢ Display the amount of money = Greabe Seung torger Simple UI/UX Design that is spent against a budget * Specify the target date very simple to navigate 
+## **Allow users:** 
 
-¢ Display the remaining money ina * Specify the target name budget ¢ Display progress of a savings ¢ Notify a user when theu’re over target 
+- **Create saving targets** 
 
-¢ Notify a user when theu’re over their budget 
+- **Specify the target date** 
 
-#### NON-FUNCTIONAL REQUIREMENTS 
+- **Specify the target name** 
 
+- **Display progress of a savings target** 
 
+## **7. Simple UI/UX Design that is very simple to navigate.** 
 
-<!-- Start of picture text -->
-</><br><!-- End of picture text -->
+# **NON-FUNCTIONAL REQUIREMENTS** 
 
+- **Frontend Web Design: HTML, CSS, JS, React** 
 
+- **Backend Web Design: Node.js** 
 
-<!-- Start of picture text -->
-=<br><!-- End of picture text -->
+- **Database** 
 
-Frontend Web Design: HTML, Backend Web Design: Node.js CSS, JS, React 
+- **Authentication** 
 
+- **Charts** 
 
+- **Data Labels (eg User ID, Budget ID, Target ID)** 
 
-<!-- Start of picture text -->
-a Lu<br>Authentication Charts<br><!-- End of picture text -->
+# **PROJECT SUMMARY** 
 
-
-
-<!-- Start of picture text -->
-S<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-Database<br><!-- End of picture text -->
-
-® Data Labels (eg User ID, Budget ID, Target ID) 
-
-PROJECT SUMMARY In summary, UniBudget is a student-centered web app that helps students effectively manage their income and expenses while in school. 
-
-
-
-<!-- Start of picture text -->
-x<br><!-- End of picture text -->
+**In summary, UniBudget is a student-centered web app that helps students effectively manage their income and expenses while in school.** 
 
